@@ -35,3 +35,9 @@ public class CalculatorTest {
         calc.divide(5, 0);
     }
 }
+
+    @Test
+    public void testAdditionPositive() {
+        Calculator calc = new Calculator();
+        assertEquals(10, calc.add(4, 6));
+    }
