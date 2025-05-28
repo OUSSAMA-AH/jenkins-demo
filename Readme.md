@@ -2,11 +2,11 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](http://localhost:8080/job/Java-CI-Pipeline/)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.java.net/projects/jdk/21/)
-[![Maven](https://img.shields.io/badge/Maven-3.9.6-blue.svg)](https://maven.apache.org/)
+[![Maven](https://img.shields.io/badge/Maven-3.9.9-blue.svg)](https://maven.apache.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-4.13.2-green.svg)](https://junit.org/junit4/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Projet académique** de démonstration d'un pipeline d'intégration continue (CI/CD) utilisant Jenkins, Maven et JUnit dans le cadre du TP3 DevOps - Méthodes de développement (GI20).
+> **Projet académique** de démonstration d'un pipeline d'intégration continue (CI/CD) utilisant Jenkins, Maven et JUnit dans le cadre du TP3 DevOps.
 
 ## 📋 Table des matières
 
@@ -250,7 +250,6 @@ graph TD
 ## 📝 Documentation
 
 ### Ressources du projet :
-- **[Rapport technique complet](docs/rapport_jenkins.pdf)** - Documentation LaTeX détaillée
 - **[Guide d'installation](docs/installation.md)** - Instructions pas à pas
 - **[Configuration Jenkins](docs/jenkins-config.md)** - Paramétrage détaillé
 - **[Troubleshooting](docs/troubleshooting.md)** - Résolution de problèmes
@@ -259,10 +258,6 @@ graph TD
 - [Documentation Jenkins](https://www.jenkins.io/doc/)
 - [Maven Getting Started](https://maven.apache.org/guides/getting-started/)
 - [JUnit 4 Documentation](https://junit.org/junit4/)
-
-## 🤝 Contribution
-
-Ce projet étant un TP académique, les contributions externes ne sont pas acceptées. Cependant, vous pouvez :
 
 ### Pour les étudiants :
 1. **Fork** le projet pour vos propres expérimentations
@@ -280,16 +275,9 @@ Ce projet étant un TP académique, les contributions externes ne sont pas accep
 ## 📞 Contact
 
 ### Auteur :
-**AHAMRI Oussama**
-- 🎓 **Formation** : Génie Informatique (GI20)
-- 🏫 **Établissement** : Académie Internationale Mohammed VI de l'Aviation Civile
-- 📧 **Email** : [oussama.ahamri@aimac.ma](mailto:oussama.ahamri@aimac.ma)
+- 📧 **Email** : [oussama.ahamri@aiac.ma](mailto:oussama.ahamri@aiac.ma)
 - 💼 **LinkedIn** : [linkedin.com/in/oussama-ahamri](https://linkedin.com/in/oussama-ahamri)
 
-### Support technique :
-- 🐛 **Issues** : [GitHub Issues](https://github.com/OUSSAMA-AH/jenkins-demo/issues)
-- 📖 **Wiki** : [GitHub Wiki](https://github.com/OUSSAMA-AH/jenkins-demo/wiki)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/OUSSAMA-AH/jenkins-demo/discussions)
 
 ---
 
@@ -319,14 +307,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
-
-## 🏆 Remerciements
-
-- **Académie Internationale Mohammed VI de l'Aviation Civile** pour la formation DevOps
-- **Équipe pédagogique GI20** pour l'encadrement technique
-- **Communauté Jenkins** pour la documentation et les ressources
-- **Communauté Open Source** pour les outils utilisés
 
 ---
 
